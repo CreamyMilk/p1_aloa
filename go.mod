@@ -7,7 +7,7 @@ require (
 	github.com/dgryski/go-farm v0.0.0-20180109070241-2de33835d102 // indirect
 	github.com/godbus/dbus v4.1.0+incompatible
 	github.com/golang/protobuf v1.2.0
-	github.com/gorilla/websocket v1.4.0 // indirect
+	github.com/gorilla/websocket v1.4.2 // indirect
 	github.com/improbable-eng/grpc-web v0.0.0-20181111131931-77784bdb46c6
 	github.com/mame82/mblue-toolz v0.1.1
 	github.com/pkg/errors v0.8.0 // indirect
